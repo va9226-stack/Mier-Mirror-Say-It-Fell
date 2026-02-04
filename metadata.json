@@ -1,0 +1,8 @@
+{
+  "name": "Mier Mirror Say It Fell",
+  "description": "The Sovereign Builder Interface. Tiered AI generation for elite architects.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
